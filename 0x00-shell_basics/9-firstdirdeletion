@@ -1,0 +1,2 @@
+#!/bin/bash
+rndir -rf /tmp/my_first_directory 
